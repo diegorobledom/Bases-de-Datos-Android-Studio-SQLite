@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BaseDeDatos</string>
+    <string name="btnCrearDB">Crear Base De Datos</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="correo">Correo</string>
+    <string name="insertar">Insertar Registro</string>
+    <string name="menu_nuevo">Insertar Registro</string>
+</resources>
