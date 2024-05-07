@@ -53,7 +53,7 @@ public class InsertarRegistro extends AppCompatActivity
         try
         {
             DbContactos dbContactos = new DbContactos(getApplicationContext());
-            id = dbContactos.insertarContacto(nombre, telefono,correo);
+            id = dbContactos.insertarContacto(nombre, telefono, correo);
         } catch (Exception ex)
         {
             Toast.makeText(getApplicationContext(),"Error en Registro",Toast.LENGTH_LONG).show();

@@ -5,5 +5,12 @@
     <string name="telefono">Teléfono</string>
     <string name="correo">Correo</string>
     <string name="insertar">Insertar Registro</string>
-    <string name="menu_nuevo">Insertar Registro</string>
+    <string name="mostrar_registros">Mostrar Registro</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="hint_correo_electronico">Correo electronico:</string>
+    <string name="btn_guarda">Guardar registro</string>
+    <string name="menu_nuevo">Nuevo registro</string>
+    <string name="imagen">Boton</string>
+    <string name="salir">Salir</string>
 </resources>
